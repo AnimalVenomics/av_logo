@@ -6,4 +6,4 @@ Logo for the Animal Venomics group
 - DNA source: https://svgsilh.com/de/image/1500067.html (PublicDomain)
 
 ## Font
-Latin Modern Sans Demi Cond
+- Rubik source: https://www.fontsquirrel.com/fonts/rubik (SIL Open Font License v1.10)
